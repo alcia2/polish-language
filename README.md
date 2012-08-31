@@ -1,3 +1,3 @@
 ﻿Polskie pliki językowe dla frameworka CodeIgniter.
 
-Wersja 2.1.2
+Wersja 3.0 - dev
